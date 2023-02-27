@@ -1,2 +1,3 @@
 # SmartHomeOrchestrator
-Diploma
+
+It's my diploma work
