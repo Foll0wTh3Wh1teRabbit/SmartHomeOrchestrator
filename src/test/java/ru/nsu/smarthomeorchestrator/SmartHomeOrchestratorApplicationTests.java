@@ -8,6 +8,7 @@ class SmartHomeOrchestratorApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
